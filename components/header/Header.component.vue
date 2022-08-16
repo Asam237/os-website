@@ -18,7 +18,7 @@
       <div
         class="border-2 border-none text-white bg-orange-600 px-4 py-2 rounded-full font-semibold"
       >
-        Join Community
+        <a href="mailto:mail@test.cm"> Join Community </a>
       </div>
     </div>
   </header>
