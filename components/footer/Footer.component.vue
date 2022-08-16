@@ -1,8 +1,5 @@
 <template>
-  <footer
-    data-aos="slide-up"
-    class="px-4 md:px-0 pt-[300px] md:pt-56 pb-8 md:pb-12"
-  >
+  <footer class="px-4 md:px-0 pt-[300px] md:pt-56 pb-8 md:pb-12">
     <div class="mx-auto container md:px-12">
       <div class="flex flex-col md:flex-row">
         <div class="hidden w-full md:w-3/12 md:flex flex-rows items-center">
