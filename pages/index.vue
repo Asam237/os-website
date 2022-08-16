@@ -2,6 +2,7 @@
   <div>
     <HeaderComponent />
     <MainComponent />
+    <FooterComponent />
   </div>
 </template>
 
