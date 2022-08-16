@@ -1,6 +1,6 @@
 <template>
   <header class="px-4 py-6 border-b-2">
-    <div class="mx-auto container flex justify-between items-center">
+    <div class="container mx-auto flex justify-between items-center md:px-12">
       <h1 class="text-xl md:text-2xl" style="font-family: 'Pacifico', cursive">
         OS <span class="text-orange-600 w-3 h-3">.</span>
       </h1>

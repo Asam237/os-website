@@ -1,6 +1,6 @@
 <template>
   <main class="px-4 py-12">
-    <div class="container mx-auto md:mt-8">
+    <div class="container mx-auto md:mt-8 md:px-12">
       <div class="flex flex-col md:flex-row">
         <div
           data-aos="fade-right"
