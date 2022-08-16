@@ -38,13 +38,13 @@
         </div>
         <div class="md:w-1/2 mt-12 md:mt-0 mx-auto md:mx-0 flex justify-center">
           <img
-            data-aos="zoom-in-up"
             :src="require('../../assets/imgs/bg.jpg')"
             alt=""
             style="z-index: -1"
-            class="rounded-full md:w-[500px] w-[300px] sm:w-350 sm:h-[350px] h-[300px] md:h-[500px] object-cover absolute  z-2"
+            class="rounded-full md:w-[500px] w-[300px] sm:w-350 sm:h-[350px] h-[300px] md:h-[500px] object-cover absolute z-2"
           />
           <div
+            data-aos="zoom-in-up"
             class="hidden md:flex flex-row justify-between z-4 h-full w-full"
           >
             <div class="mt-20">
@@ -60,7 +60,10 @@
               />
             </div>
           </div>
-          <div class="hidden md:flex flex-col justify-between">
+          <div
+            data-aos="zoom-in-up"
+            class="hidden md:flex flex-col justify-between"
+          >
             <div class="ml-2 mt-32">
               <CommentComponent
                 content="Lorem ipsum dolor sit amet, consetetur."
